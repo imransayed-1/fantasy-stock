@@ -8,6 +8,6 @@ cd fantasy-stock/gs-spring-boot-docker/initial
 
 ./mvnw package && java -jar target/gs-spring-boot-docker-0.1.0.jar
 
-go to http://localhost:8080[localhost:8080]
+go to http://localhost:8080
 
 
