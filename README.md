@@ -1,1 +1,2 @@
-# fantasy-stock
+mkdir ~/github-repos
+cd  ~/github-repos
