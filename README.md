@@ -6,4 +6,6 @@ git clone https://github.com/imransayed-1/fantasy-stock.git
  
 cd fantasy-stock/gs-spring-boot-docker/initial
 
+./mvnw package && java -jar target/gs-spring-boot-docker-0.1.0.jar
+
 
